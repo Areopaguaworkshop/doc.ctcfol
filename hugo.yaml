@@ -1,0 +1,5 @@
+baseURL: https://ctcfol.org/
+languageCode: en-us
+title: 教父原文中译计划
+theme: ananke
+theme: hugo-book
