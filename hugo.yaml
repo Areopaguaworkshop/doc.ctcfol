@@ -1,5 +1,33 @@
-baseURL: https://ctcfol.org/
+baseURL: https://meet.ctcfol.org/
 languageCode: en-us
 title: 教父原文中译计划
-theme: ananke
-theme: hugo-book
+theme: hugo-theme-learn
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  author: '袁永甲'
+  description: '教父原文中译手册'
+  showVisitedLinks: false
+  disableSearch: false
+  disableAssetsBusting: false
+  disableInlineCopyToClipBoard: false
+  disableShortcutsTitle: false
+  disableLandingPageButton: false
+  disableLanguageSwitchingButton: false
+  disableBreadcrumb: true
+  disableMermaid: false
+  disableNextPrev: false
+  ordersectionsby: weight
+  themeVariant: 'blue'
+  custom_css:
+    - css/foo.css
+    - css/bar.css
+  titleSeparator: '-'
+  landingPageURL: https://meet.ctcfol.org/docs/%E5%BA%8F%E8%A8%80/
+  landingPageName: <i class='fas fa-home'></i> 首页
+
