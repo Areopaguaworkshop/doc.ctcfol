@@ -8,10 +8,10 @@ draft: false
 ##### 袁永甲著
 ##### 光从东方来出版事工 2023年(第一版)
 
-#### [目录](https://meet.ctcfol.org/docs/序言/)
-{{% button href="https://github.com/Areopaguaworkshop/ctcfol" %}}Github{{% /button %}}
-{{% button href="https://forum.ctcfol.org/" %}}讨论区{{% /button %}}
-{{% button href="https://www.youtube.com/@areopagusworkshop" %}}油管频道{{% /button%}}
+#### [目录](https://meet.ctcfol.org/docs/introduce/)
+{{% button href="https://ctcfol.org" %}}教父原文译作{{% /button %}}
+{{% button href="https://forum.ctcfol.org/" %}}教父原文中译讨论区{{% /button %}}
+{{% button href="https://www.youtube.com/@gcdfl" %}}油管频道{{% /button%}}
 {{% button href="https://gcdfl.org/" %}}光从东方来{{% /button%}}
 {{% button href="https://www.ephremyuan.com" %}}阿甲教父原文翻译{{% /button%}}
 

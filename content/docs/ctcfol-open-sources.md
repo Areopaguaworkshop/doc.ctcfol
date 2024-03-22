@@ -6,11 +6,11 @@ draft: false
 tags: ['CTCFOL', '教父原文中译计划','教父原文中译手册']
 ---
 
-按：此篇是对教父原文中译手册之[序言篇](https://www.ctcfol.org/docs/%E5%BA%8F%E8%A8%80/)的补充。即除了教父灵性与话语之滋养外，开源精神亦促成了此计划之公益化，这篇文章就试图讲明此点。
+按：此篇是对教父原文中译手册之序言篇的补充。即除了教父灵性与话语之滋养外，开源精神亦促成了此计划之公益化，这篇文章就试图讲明此点。
 
-{{% button href="https://github.com/Areopaguaworkshop/ctcfol" %}}Github{{% /button %}}
-{{% button href="https://forum.ctcfol.org/" %}}讨论区{{% /button %}}
-{{% button href="https://www.youtube.com/@areopagusworkshop" %}}油管频道{{% /button%}}
+{{% button href="https://ctcfol.org" %}}教父原文译作{{% /button %}}
+{{% button href="https://forum.ctcfol.org/" %}}教父原文中译讨论区{{% /button %}}
+{{% button href="https://www.youtube.com/@gcdfl" %}}油管频道{{% /button%}}
 {{% button href="https://gcdfl.org/" %}}光从东方来{{% /button%}}
 {{% button href="https://www.ephremyuan.com" %}}阿甲教父原文翻译{{% /button%}}
 
@@ -19,7 +19,7 @@ tags: ['CTCFOL', '教父原文中译计划','教父原文中译手册']
 
 大概十年前，我第一次在电脑上装了一个linux操作系统，叫ubuntu。其中，让我惊异的是，操作系统本身以及里面所有的软件都是可以免费使用的。但ubuntu的操作并不简单，很多情况下都需要通过电脑终端完成。于是我在网上找学习linux系统的资料，发现网上资料不少，甚至通过[鸟哥的私房菜](https://linux.vbird.org/)系统地学了一下命令行，但基本到服务器建站就截止了。虽然用linux系统会出现不少麻烦（处理bug等），但可以免费使用所有的软件，自由地对系统进行配置，这种免费而自由的感觉，真的很好。
 
-今年年初，我花几百英镑买了一台mini PC，删掉其中的Windows系统，装上了ubuntu系统。我心里好像有某些东西被再次激发了，并且由于我这时能流畅地阅读英文，很多东西和概念上手快多了。原来，linux系统是为建站，做服务器而生的。目前，我通过这台mini PC，自己建了[nextcloud云盘](https://github.com/nextcloud/all-in-one)，建了一个[mattermost](https://github.com/mattermost/mattermost)聊天服务器，一个[matrix](https://github.com/matrix-org)聊天服务器，用[ghost](https://github.com/TryGhost/Ghost)建立自己的个人网站:[www.ajiacloud.org](https://ajiacloud.org/)，用[hugo](https://github.com/gohugoio/hugo)建立本网站：[www.ctcfol.org](https://www.ctcfol.org/)。当然以上全部是开源项目，只要对终端足够熟悉，基本上可以免费使用。这些服务大部分服务是建立在[docker](https://github.com/docker)之上的，其中Git和github也很重要。在我看来linu和git背后的这位人物Linus Torvalds丝毫不亚于苹果和微软创始人。虽然其中由于电脑故障损失了一些资料，但相对于我在这个过程中学到的东西而言，确实不算什么。
+今年年初，我花几百英镑买了一台mini PC，删掉其中的Windows系统，装上了ubuntu系统。我心里好像有某些东西被再次激发了，并且由于我这时能流畅地阅读英文，很多东西和概念上手快多了。原来，linux系统是为建站，做服务器而生的。目前，我通过这台mini PC，自己建了[nextcloud云盘](https://github.com/nextcloud/all-in-one)，建了一个[mattermost](https://github.com/mattermost/mattermost)聊天服务器，一个[matrix](https://github.com/matrix-org)聊天服务器，用[ghost](https://github.com/TryGhost/Ghost)建立自己的个人网站:[www.ephremyuan.com](https://ephremyuan.com/)，用[hugo](https://github.com/gohugoio/hugo)建立本网站：[www.ctcfol.org](https://www.ctcfol.org/)。当然以上全部是开源项目，只要对终端足够熟悉，基本上可以免费使用。这些服务大部分服务是建立在[docker](https://github.com/docker)之上的，其中Git和github也很重要。在我看来linu和git背后的这位人物Linus Torvalds丝毫不亚于苹果和微软创始人。虽然其中由于电脑故障损失了一些资料，但相对于我在这个过程中学到的东西而言，确实不算什么。
 
 按我个人粗浅的理解，所谓开源就是建立一个开源协议，公开源代码，任何人可以根据协议查看，使用，修改这些代码，linux的内核就是这样形成的，而Git最初是用于管理内核版本（由于参与人数众多）的控制工具。在IT，软件领域，开源精神大家都很熟悉。而与开源精神相对的是闭源，闭源就是不公开源代码，保留自己对源代码的所有权，并用于商业目的。在契约精神下，开源或闭源都没有问题，也没有可责之处。不过，在开源项目下产生的软件和产品通常更加安全可靠。原因也不难理解，因为其源代码是公开的，没什么藏着掖着的东西。在软件领域，开源就好比土地，阳光，空气和水，农夫在地里种植庄稼，从中获得收成，这样的循环是有益的。
 
@@ -31,7 +31,7 @@ tags: ['CTCFOL', '教父原文中译计划','教父原文中译手册']
 
 - **阅读教父原文的途径（即学习古典语言）应该可以降低门槛到免费讲授的地步。这并不是说交学费学古典语言是不对的，正如我们不能谴责那些花钱学编程语言的人。那些教古典语言的人费心费力，让学员交点学费，这是理所当然的。免费讲授是降低学习古典语言的门槛，而不是降低古典语言本身的难度。**
 
-也许有人会说，学术界没有开源精神，这是不对的。宁勿说，开源精神有着人文精神的影响。在契约精神下，大英博物馆宣告对所有人公开免费开放，直到如今。我有很多书在学校图书馆找不到，只能到大英图书馆看，办一张就可以开始借阅了，不花一分钱。这就是学术界的开源精神。如此，将原始材料或者一手材料公开免费给所有人就是人文界的开源精神。关于学术界占山为王，商业化大肆敛财的做法，笔者已在本手册[序言](https://www.ctcfol.org/docs/%E5%BA%8F%E8%A8%80/)和[在世俗大学之外建立学术阵营中](https://areopagusworkshop.uk/2022/07/11/%e8%ae%ba%e5%9c%a8%e4%b8%96%e4%bf%97%e5%a4%a7%e5%ad%a6%e4%b9%8b%e5%a4%96%e5%bb%ba%e7%ab%8b%e5%ad%a6%e6%9c%af%e9%98%b5%e8%90%a5%e7%9a%84%e5%bf%85%e8%a6%81%e6%80%a7/)提及，这里不再详述。
+也许有人会说，学术界没有开源精神，这是不对的。宁勿说，开源精神有着人文精神的影响。在契约精神下，大英博物馆宣告对所有人公开免费开放，直到如今。我有很多书在学校图书馆找不到，只能到大英图书馆看，办一张就可以开始借阅了，不花一分钱。这就是学术界的开源精神。如此，将原始材料或者一手材料公开免费给所有人就是人文界的开源精神。关于学术界占山为王，商业化大肆敛财的做法，笔者已在本手册[序言](https://www.ctcfol.org/docs/introduce/)提及，这里不再详述。
 
 ## 打通语言与原始材料的阻碍
 ------
