@@ -13,7 +13,7 @@ tags: ['CTCFOL', '光从东方来', '教父原文中译计划', '教父原文中
 {{% button href="https://www.ephremyuan.com" %}}阿甲教父原文翻译{{% /button%}}
 
 ## [序言](https://doc.ctcfol.org/docs/introduce/)
-
+gg
 **您最好有基督教的信仰**
 ------
 
