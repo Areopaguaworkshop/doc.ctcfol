@@ -56,19 +56,19 @@ fuseOpts:
 
 menu:
   main:
-    - name: "缘起之开源精神"
+    - name: "缘起"
       url: /intro
       weight: 100
-    - name: "第一章预备篇"
+    - name: "1 预备篇"
       url: /chapter1
       weight: 200
-    - name: "第二章古典语言"
+    - name: "2 古典语言"
       url: /chapter2
       weight: 300
-    - name: "第三章现代语言"
+    - name: "3 现代语言"
       url: /chapter3
       weight: 400
-    - name: "第四章开始翻译"
+    - name: "4 开始翻译"
       url: /chapter4
       weight: 500
     - name: "附录论翻译"
@@ -80,3 +80,6 @@ menu:
     - name: 教父原文译作
       url: https://www.ctcfol.org/
       weight: 800
+    - name: 光从东方来
+      url: https://www.gcdfl.org/
+      weight: 850
