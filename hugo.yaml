@@ -56,7 +56,7 @@ fuseOpts:
 
 menu:
   main:
-    - name: "缘起篇"
+    - name: "缘起之开源精神"
       url: /intro
       weight: 100
     - name: "第一章预备篇"
@@ -74,6 +74,9 @@ menu:
     - name: "附录论翻译"
       url: /append
       weight: 600
-    - name: Search
+    - name: 搜索
       url: /search
       weight: 700
+    - name: 教父原文译作
+      url: https://www.ctcfol.org/
+      weight: 800

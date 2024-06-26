@@ -10,15 +10,14 @@ cover:
   
 ---
 ## 教父原文中译手册
-> - **本手册隶属于教父原文中译计划，**教父原文中译计划，以原文翻译推广教父传统，其英文名为Chinese Translation of Church Fathers from the Original Languages(缩写为ctcfol)。关于此计划具体内容，请见[ctcfol](https://www.ctcfol.org/)，[本手册](https://doc.ctcfol.org)）和[Forum](https://forum.ctcfol.org)**
-> - 此外我们还有光从东方来公益事工，旨在以讲座推广东方教会传统。关于光从东方来的介绍，见[这里](https://gcdfl.org/)**。欢迎订阅我们[油管频道](https://www.youtube.com/@gcdfl)
+> - ### 教父原文中译计划，以原文翻译推广教父传统，其英文名为Chinese Translation of Church Fathers from the Original Languages(缩写为ctcfol)。关于此计划具体内容，请见[ctcfol](https://www.ctcfol.org/)，[本手册](https://doc.ctcfol.org)）和[Forum](https://forum.ctcfol.org)**
+> - ### 光从东方来，以讲座推广东方教会传统。关于光从东方来的介绍，见[这里](https://gcdfl.org/)**。欢迎订阅我们[油管频道](https://www.youtube.com/@gcdfl)
 > - **关于阿甲的教父原文译作分享计划，请点击[这里](https://www.ctcfol.org/2024/05/30/ctcfol-Ajia-share-plan/)**
 > - **若您有感动，支持奉献我们的公益事工，请点击[Donate](https://www.ctcfol.org/donate/)**
 > - 版权申明：若要引用本文，请按以下格式：
->> **袁永甲著《教父原文中译手册》（伦敦：教父原文中译计划，第二版，2024年），此网址，引用日期**
+>> ### 袁永甲著《教父原文中译手册》（伦敦：教父原文中译计划，第二版，2024年），此网址，引用日期
 
 ##  总目录
-> ### 袁永甲著
 > - [缘起篇 开源精神](https://doc.ctcfol.org/intro/)
 > - [第一章 预备篇](https://doc.ctcfol.org/chapter1/)
 > - [第二章 古典语言篇](https://doc.ctcfol.org/chapter2/)
